@@ -46,6 +46,7 @@ Result:
 The feedback was highly positive, highlighting my communication clarity, confidence, and professionalism. It also helped me identify areas for growth, such as summarizing my points more efficiently and managing response time. The exercise provided valuable insight into real interview dynamics and increased my preparedness for future opportunities.
 
 4. PROFESSIONAL NETWORKING
+   ![Google Cybersecurity Certificate](https://github.com/Njabulo9/My-Digital-Portfolio-for-PRP370-1-2S-Project-Presentation-3/raw/main/Screenshot%202025-10-18%20234123.png)
 
 Situation:
 As part of my professional development, I enhanced my LinkedIn profile to strengthen my digital presence and establish meaningful industry connections.
