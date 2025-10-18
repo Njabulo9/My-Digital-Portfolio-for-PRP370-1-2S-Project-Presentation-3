@@ -16,6 +16,7 @@ Result:
 This experience enhanced my understanding of how communication plays a vital role in cybersecurity management. It strengthened my ability to transform technical details into clear, actionable insights and improved both my research and presentation skills. Completing the certification further validated my capability to communicate effectively and confidently in a professional cybersecurity context.
 
 2. INTERVIEW SKILLS DEVELOPMENT
+   ![Google Cybersecurity Certificate](Screenshot%202025-10-18%20232350.png)
 
 Situation:
 I completed a LinkedIn Learning course titled “How to Make a Positive First Impression with a Hiring Manager” led by career coach Brittany Hayles. The course focused on practical methods to help candidates stand out in interviews through improved communication, preparation, and confidence.
