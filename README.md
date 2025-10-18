@@ -1,4 +1,7 @@
 1. CYBER SECURITY COMMUNICATION
+   ![Google Cybersecurity Certificate](https://github.com/Njabulo9/My-Digital-Portfolio-for-PRP370-1-2S-Project-Presentation-3/raw/main/Screenshot%202025-10-18%20225916.png)
+
+
 
 Situation:
 During my Cyber Security Communication course, I was required to demonstrate both professional and technical communication abilities in written and verbal formats. This involved completing a communication-related certification and preparing a detailed report exploring how effective communication enhances cybersecurity awareness and response.
