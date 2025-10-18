@@ -31,6 +31,7 @@ Result:
 After completing the course, I became noticeably more confident and articulate in interviews. I learned to structure my responses strategically, remain composed under pressure, and convey enthusiasm authentically. The training taught me that successful interviewing goes beyond memorized answers—it’s about preparation, self-awareness, and meaningful engagement with the interviewer.
 
 3. MOCK INTERVIEW PRACTICE
+   ![Google Cybersecurity Certificate](Screenshot%202025-10-18%20233437.png)
 
 Situation:
 I participated in a mock interview via LinkedIn Learning’s “Nano Tips for Nailing Your Job Interview with Sho Dewan.” The short session simulated a professional interview and included ten tailored questions relevant to my field of study.
