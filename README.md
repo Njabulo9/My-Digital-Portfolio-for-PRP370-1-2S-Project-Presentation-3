@@ -61,6 +61,7 @@ Result:
 This process deepened my understanding of current trends in ICT and showed me the importance of networking in career development. Maintaining an active and polished LinkedIn profile improved my professional visibility and strengthened my ability to engage with others meaningfully within the industry.
 
 5. WORKPLACE ETIQUETTE
+   ![Google Cybersecurity Certificate](https://github.com/Njabulo9/My-Digital-Portfolio-for-PRP370-1-2S-Project-Presentation-3/raw/main/Screenshot%202025-03-17%20134935.png)
 
 Situation:
 During my internship at Plum Systems, I worked as part of a collaborative team tasked with developing and enhancing a client’s application. The project environment required teamwork, adaptability, and consistent communication to meet client expectations.
